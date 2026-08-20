@@ -36,3 +36,18 @@
 .download-button.primary:active {
     background-color: #333;
 }
+
+/* Terciary variant — for "Get enterprise" button */
+.download-button.terciary {
+    background-color: #D8D6CE;
+    border: 1px solid #333;
+    color: #333;
+}
+
+.download-button.terciary:hover {
+    background-color: #D8D6CE;
+}
+
+.download-button.terciary:active {
+    background-color: #D8D6CE;
+}
